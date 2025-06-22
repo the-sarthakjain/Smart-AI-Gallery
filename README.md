@@ -13,5 +13,3 @@ Smart Gallery is an AI-powered web application that allows users to upload, view
 - Search photos by keywords
 - Responsive UI
 
-## 📁 Project Structure
-
